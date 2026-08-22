@@ -153,3 +153,5 @@ output/
 .cache/
 temp/
 5_phase_training/
+AGENTS.md
+.opencode

@@ -1,4 +1,4 @@
-# YOLOv8 Pruning
+# EcoEdge: YOLOv8 Pruning Methodology
 
 **Original Content. Please credit the source when referencing.**
 
